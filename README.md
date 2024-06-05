@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/vicky0604hello/gupshup_music/stargazers"><img src="https://img.shields.io/github/stars/vicky0604hello/gupshup_music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/vicky0604hello/gupshup_music/network/members"> <img src="https://img.shields.io/github/forksvicky0604hello/gupshup_music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/vicky0604hello/gupshup_music/network/members"> <img src="https://img.shields.io/github/forks/vicky0604hello/gupshup_music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/vicky0604hello/gupshup_music/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/vicky0604hello/gupshup_music/edit/mas"> <img src="https://img.shields.io/github/last-commit/vicky0604hello/gupshup_music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
